@@ -58,5 +58,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/Lennys-G})
+- GitHub [@Lennys-G](https://github.com/Lennys-G)
 
