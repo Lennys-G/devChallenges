@@ -36,8 +36,8 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/lennys-g.github.io_screenshot(iPhone 12 Pro.png)
-![screenshot](https://raw.githubusercontent.com/lennys-g.github.io_screenshot(iPhone 12 Pro.png)
+![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/404-not-found-master/screenshot/lennys-g.github.io_screenshot(Desktop%201024).png)
+![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/404-not-found-master/screenshot/lennys-g.github.io_screenshot(iPhone%2012%20Pro).png)
 
 In this project he has applied basic knowledge of HTML structure and CSS layout with a grid, for a simple "404 Error" page following the design proposed in the challenge of Devchallenges.io
 
