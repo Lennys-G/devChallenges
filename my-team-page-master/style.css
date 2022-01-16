@@ -1,0 +1,157 @@
+:root {
+	/* Fonts */
+	--montserrat: 'Montserrat', sans-serif;
+	--font-poppins: 'Poppins', sans-serif;
+	--font-ptSerif: 'PT Serif', serif;
+
+	/* Colors */
+	--black: #000000;
+	--gray: #a9a9a9;
+}
+
+/* GLobals */
+
+html {
+	box-sizing: border-box;
+	font-size: 62.5%;
+}
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+body {
+	font-size: 1.6rem;
+	font-family: var(--font-poppins);
+}
+
+p {
+	font-size: 1.8rem;
+}
+
+.container {
+	width: 90%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+/* Header */
+
+.header {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin: 8rem auto;
+}
+
+@media (max-width: 640px) {
+	.header {
+		flex-direction: column;
+	}
+	.header__text p {
+		font-size: 1.4rem;
+	}
+}
+.header__title {
+	padding: 1rem;
+	width: 100%;
+}
+.header__title h1 {
+	font-family: var(--font-ptSerif);
+	font-size: 3.6rem;
+	font-weight: bold;
+	margin-top: 0;
+}
+.header__text {
+	padding: 0 1rem;
+	max-width: 360px;
+	width: 100%;
+}
+.header__text h2 {
+	font-weight: 600;
+	font-size: 1.8rem;
+	text-transform: uppercase;
+}
+
+/* Team section */
+
+.team {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 0 6rem;
+}
+
+@media (max-width: 768px) {
+	.team {
+		grid-template-columns: repeat(2, 1fr);
+		gap: 0 4rem;
+	}
+}
+
+/* Cards */
+
+.card__body {
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+}
+
+.card__body img {
+	width: 100%;
+	height: auto;
+	max-width: 340px;
+	border-radius: 0.3rem;
+}
+
+@media (max-width: 440px) {
+	.card__body img {
+		max-width: 150px;
+	}
+}
+
+.card__body p {
+	writing-mode: vertical-lr;
+	text-align: justify;
+	font-size: 1.2rem;
+	font-family: var(--font-ptSerif);
+	text-transform: uppercase;
+	margin-left: 0.5rem;
+}
+
+.card h2 {
+	font-size: 1.8rem;
+	font-weight: 600;
+	margin-top: 1rem;
+}
+
+.card__middle {
+	margin-top: 10rem;
+}
+
+@media (max-width: 768px) {
+	.card__body p {
+		font-size: 1rem;
+	}
+	.card__middle {
+		margin-top: 0rem;
+	}
+	.card__low {
+		margin-top: 5rem;
+	}
+}
+
+/* Footer */
+
+.footer {
+	font-size: 14px;
+	font-family: var(--montserrat);
+	font-weight: 500;
+	color: var(--gray);
+	text-align: center;
+	margin: 2rem 0;
+}
+
+.footer span {
+	font-weight: 700;
+}
