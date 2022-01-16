@@ -36,10 +36,11 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/404-not-found-master/screenshot/SSDesktop.jpg)
-![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/404-not-found-master/screenshot/SSSmartphone.jpg)
+![screenshot](https://raw.githubusercontent.com/lennys-g.github.io_screenshot(iPhone 12 Pro).png)
+![screenshot](https://raw.githubusercontent.com/lennys-g.github.io_screenshot(iPhone 12 Pro).png)
 
 In this project he has applied basic knowledge of HTML structure and CSS layout with a grid, for a simple "404 Error" page following the design proposed in the challenge of Devchallenges.io
+
 </div>
 
 ### Built With
@@ -47,7 +48,7 @@ In this project he has applied basic knowledge of HTML structure and CSS layout 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - HTML5
-- CSS 
+- CSS
 
 ## Features
 
@@ -55,8 +56,6 @@ In this project he has applied basic knowledge of HTML structure and CSS layout 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-
 ## Contact
 
 - GitHub [@Lennys-G](https://github.com/Lennys-G)
-

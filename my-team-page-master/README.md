@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Not Found Challenge}</h1>
+<h1 align="center">{My Team Page Challenge}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -36,7 +36,9 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/my-team-page-master/screenshot/Lennys-g%20-MyTeamPage-iPhone%20X.jpg)
+![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/my-team-page-master/screenshot/lennys-g.github.io_screenshot(iPhone 12 Pro).png)
+
+![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/my-team-page-master/screenshot/lennys-g.github.io_screenshot(Desktop 1024).png)
 
 In this project he has applied basic knowledge of HTML structure and CSS layout with a grid, for a simple "404 Error" page following the design proposed in the challenge of Devchallenges.io
 
