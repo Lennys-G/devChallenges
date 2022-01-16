@@ -36,8 +36,8 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/404-not-found-master/screenshot/127%20-%20Full%20-%20Generic%20Laptop%20-%202022-1-13%20at%207.48.17%20P.%C2%A0M..jpg)
-![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/404-not-found-master/screenshot/127%20-%20iPhone%20X%20-%202022-1-13%20at%207.44.49%20P.%C2%A0M..jpg)
+![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/404-not-found-master/screenshot/SSDesktop.jpg)
+![screenshot](https://raw.githubusercontent.com/Lennys-G/devChallenges/master/404-not-found-master/screenshot/SSSmartphone.jpg)
 
 In this project he has applied basic knowledge of HTML structure and CSS layout with a grid, for a simple "404 Error" page following the design proposed in the challenge of Devchallenges.io
 </div>
